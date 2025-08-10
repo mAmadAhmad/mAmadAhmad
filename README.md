@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mAmadAhmad BS Software Engineer
+- 👋 Hi, I’m @mAmadAhmad a ML Engineer with formal B.S. Software Engineering
 - 👀 I work with AI, Classic Machine Learning and Deep Learning
-- 🌱 I have made "Plant Disease Classification and Severity Estimation" and "Bias Detection in text" with deep learning
+- 🌱 I am enrolled in IBM AI specialization, soon I will upload my AI capstone project
 - 📫 How to reach me, mail: amad62069@gmail.com, linkedIn: www.linkedin.com/in/muhammad-amad-ahmad-008305258
 
 <!---
