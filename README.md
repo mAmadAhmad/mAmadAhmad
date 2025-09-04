@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mAmadAhmad a ML Engineer with formal B.S. Software Engineering (2026 expected)
-- 🌱 I work with ML models, for now though I am going deep into DEEP LEARNING, paths
-- 🤖 We are also building a more interesting, RAG based web app, to help Educators, Researchers and Students in their journey.
+- 👋 Hi, I’m @mAmadAhmad an AI/ML Engineer with formal B.S. Software Engineering (2026 expected)
+- 🌱 I work with ML models, learning Deep Learning and build FastAPI web apps for AI Engineering work.
+- 🤖 I am also building an interesting yet simple RAG based web app, to help Educators, Researchers and Students in their journey.
 - 📫 How to reach me, mail: amad62069@gmail.com, linkedIn: www.linkedin.com/in/muhammad-amad-ahmad-008305258
 
 <!---
