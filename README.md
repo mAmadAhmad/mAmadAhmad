@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **AI Engineer** with a foundation in Software Engineering. I transitioned from building raw statistical models to architecting **scalable AI infrastructures** that solve tangible user problems.
+I am an **AI Engineer** with a foundation in Software Engineering. I transitioned from building raw statistical models to architecting **scalable AI/ML infrastructures** that solve tangible user problems.
 
 My core strength lies in **engineering around the limitations of LLMs** to create deterministic results. I focus on system reliability, ensuring that non-deterministic AI outputs are grounded by robust engineering constraints using tools like **FastAPI**, **Docker**, and **Vector Search**.
 
@@ -43,12 +43,6 @@ My core strength lies in **engineering around the limitations of LLMs** to creat
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Amad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mAmadAhmad&show_icons=true&theme=radical&hide_border=true)
 
 ---
 *Open to collaboration on **Applied Deep Learning | AI** and **ML Infrastructure** projects.*
