@@ -22,7 +22,7 @@ My core strength lies in **engineering around the limitations of LLMs** to creat
 
 | Project | Engineering Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **[EduSage (Quiz Orchestrator)](https://github.com/mAmadAhmad/EduSage)** | **RAG & Validation System:** Solved LLM grading inconsistencies by implementing a multi-layered validation system using **Cosine Similarity** and keyword extraction. Reduced hallucinations and ensured reliable assessment generation. | `LangChain` `Weaviate` `PostgresSQL` `FastAPI` `Groq` `Llama` `Gemini` |
+| **[EduSage (Quiz Orchestrator)](https://github.com/mAmadAhmad/EduSage)** | **RAG & Validation System:** Solved LLM grading inconsistencies by implementing a multi-layered validation system using **Cosine Similarity** and keyword extraction. Reduced hallucinations and ensured reliable assessment generation. | `LangChain` `Weaviate` `PostgresSQL` `FastAPI` `Docker` `Groq` `Llama` `Gemini` |
 | **[Ontario Energy Forecaster](https://github.com/mAmadAhmad/ontario-energy-forecaster)** | **Real-Time Microservice:** A production forecasting engine for grid demand. Achieved **<100ms latency** and **3.95% MAPE** by wrapping XGBoost/Isolation Forests in a Dockerized API. | `Python` `XGBoost` `FastAPI` `Docker` `Streamlit` |
 ---
 
